@@ -1,0 +1,382 @@
+{
+  "收藏家型": {
+    "mouthpiece": {
+      "title": "版本收集",
+      "bossSays": "至少要做三个版本给到我",
+      "translate": "有选择困难症，认为数量代表质量",
+      "realThought": "您是要集邮吗",
+      "counterAttack": "好的，我做个 ABCD 四个版本",
+      "mood": "我是做设计的，不是变魔术的"
+    },
+    "translator": {
+      "name": "版本管理",
+      "category": "收集学·入门",
+      "reply": "最终版、真最终版、打死不改版",
+      "realMeaning": "您自己选，别让我猜",
+      "tip": "用版本号把他绕晕",
+      "deathRate": "⭐",
+      "effectiveness": "⭐⭐⭐⭐"
+    },
+    "roast": "别的老板看结果，我的老板看版本"
+  },
+  "初恋守护者型": {
+    "mouthpiece": {
+      "title": "初恋情结",
+      "bossSays": "改了十个版本，我还是觉得第一个最好",
+      "translate": "对第一版有执念，但非要折腾一圈",
+      "realThought": "那您让我改那 9 版干嘛",
+      "counterAttack": "好的，那第一版收费加倍",
+      "mood": "白干了的第九版"
+    },
+    "translator": {
+      "name": "版本回溯",
+      "category": "收集学·进阶",
+      "reply": "第一版已经删了，要不我重新编一个",
+      "realMeaning": "折腾费结一下",
+      "tip": "让他为折腾买单",
+      "deathRate": "⭐⭐⭐",
+      "effectiveness": "⭐⭐⭐⭐⭐"
+    },
+    "roast": "老板的初恋是第一版，我是那个备胎"
+  },
+  "失忆症患者型": {
+    "mouthpiece": {
+      "title": "选择性失忆",
+      "bossSays": "我上次没这么说吧？",
+      "translate": "选择性失忆，只对自己有利的内容记得清清楚楚",
+      "realThought": "您是不想认账吗",
+      "counterAttack": "我有录音/截图，您要不要听听",
+      "mood": "记性不好还当老板"
+    },
+    "translator": {
+      "name": "记忆恢复",
+      "category": "医学·入门",
+      "reply": "我帮您回忆回忆，上周二下午三点您说的",
+      "realMeaning": "别想赖账",
+      "tip": "用细节打败失忆",
+      "deathRate": "⭐⭐",
+      "effectiveness": "⭐⭐⭐⭐⭐"
+    },
+    "roast": "老板的记性像金鱼，只有 7 秒"
+  },
+  "王阳明型": {
+    "mouthpiece": {
+      "title": "心学大师",
+      "bossSays": "这个事你不要问我，你自己就应该知道怎么做",
+      "translate": "信奉'致良知'，认为员工应该天生知道该做什么",
+      "realThought": "我是您肚子里的蛔虫吗",
+      "counterAttack": "好的，我悟一悟",
+      "mood": "我要成佛了"
+    },
+    "translator": {
+      "name": "顿悟时刻",
+      "category": "哲学·入门",
+      "reply": "我悟了，但悟出来的和您想的不一样",
+      "realMeaning": "您直说行不行",
+      "tip": "用哲学打败哲学",
+      "deathRate": "⭐⭐⭐",
+      "effectiveness": "⭐⭐⭐"
+    },
+    "roast": "别的老板管事儿，我的老板管成佛"
+  },
+  "美食家型": {
+    "mouthpiece": {
+      "title": "吃苦教育",
+      "bossSays": "年轻人多吃点亏是好事",
+      "translate": "把'吃亏'当补品，认为员工受的苦都是营养",
+      "realThought": "那您多吃点，我怕消化不良",
+      "counterAttack": "吃亏能当饭吃吗",
+      "mood": "我是来上班的，不是来吃苦的"
+    },
+    "translator": {
+      "name": "营养搭配",
+      "category": "烹饪学·入门",
+      "reply": "光吃亏不行，得配点工资",
+      "realMeaning": "别光画饼，给点实际的",
+      "tip": "跟他谈营养均衡",
+      "deathRate": "⭐⭐",
+      "effectiveness": "⭐⭐⭐⭐"
+    },
+    "roast": "老板请我吃苦，我想请他吃官司"
+  },
+  "美国人型": {
+    "mouthpiece": {
+      "title": "时差混乱",
+      "bossSays": "夜里两点：你现在把这份材料改一下",
+      "translate": "活在另一个时区，认为凌晨两点是工作时间",
+      "realThought": "您还没倒过时差吗",
+      "counterAttack": "好的，我按美国时间算，现在是下午",
+      "mood": "我的生物钟乱了"
+    },
+    "translator": {
+      "name": "时区转换",
+      "category": "地理学·入门",
+      "reply": "您那边几点？我这边是凌晨",
+      "realMeaning": "别半夜发消息",
+      "tip": "跟他谈时区",
+      "deathRate": "⭐⭐",
+      "effectiveness": "⭐⭐⭐"
+    },
+    "roast": "老板的时钟是纽约时间"
+  },
+  "文盲型": {
+    "mouthpiece": {
+      "title": "阅读障碍",
+      "bossSays": "你写的什么东西我看不懂",
+      "translate": "以'看不懂'为荣，认为复杂就是专业",
+      "realThought": "看不懂就对了，懂了要裁员",
+      "counterAttack": "那我给您画个图？",
+      "mood": "我是来做 PPT 的，不是来扫盲的"
+    },
+    "translator": {
+      "name": "简化表达",
+      "category": "教育学·入门",
+      "reply": "我用小学生能懂的语言重写一遍",
+      "realMeaning": "您文化水平有待提高",
+      "tip": "用简单打败复杂",
+      "deathRate": "⭐⭐⭐",
+      "effectiveness": "⭐⭐⭐"
+    },
+    "roast": "老板的阅读理解能力停留在小学"
+  },
+  "苹果树型": {
+    "mouthpiece": {
+      "title": "结果至上",
+      "bossSays": "你不要说别的，我只要结果",
+      "translate": "像苹果树一样，只关心结了什么果，不关心怎么结的",
+      "realThought": "过程是您不管，结果是您乱说",
+      "counterAttack": "好的，结果不好您别骂我",
+      "mood": "我是来种苹果的，不是来变魔术的"
+    },
+    "translator": {
+      "name": "结果导向",
+      "category": "管理学·入门",
+      "reply": "结果出来了，但过程有点曲折",
+      "realMeaning": "过程也很重要",
+      "tip": "让他为结果买单",
+      "deathRate": "⭐⭐",
+      "effectiveness": "⭐⭐⭐⭐"
+    },
+    "roast": "老板只摘苹果，不管浇水"
+  },
+  "马克思型": {
+    "mouthpiece": {
+      "title": "主人翁意识",
+      "bossSays": "你们在公司要有主人翁意识",
+      "translate": "擅长用'主人翁意识'来让员工无偿加班",
+      "realThought": "那股份呢？分红呢？",
+      "counterAttack": "好的，那股东会议我参加吗",
+      "mood": "我是主人翁，您是资本家"
+    },
+    "translator": {
+      "name": "股权分配",
+      "category": "经济学·入门",
+      "reply": "主人翁有股份吗？",
+      "realMeaning": "别光谈情怀",
+      "tip": "跟他谈实际利益",
+      "deathRate": "⭐⭐⭐⭐",
+      "effectiveness": "⭐⭐⭐⭐⭐"
+    },
+    "roast": "老板让我当主人翁，他自己当资本家"
+  },
+  "科学家型": {
+    "mouthpiece": {
+      "title": "研究精神",
+      "bossSays": "等我再研究研究",
+      "translate": "永远在'研究研究'，仿佛诺贝尔奖得主在攻克世界级难题",
+      "realThought": "研究到项目入土吧",
+      "counterAttack": "好的，我帮您申请科研基金",
+      "mood": "我是来做项目的，不是来搞科研的"
+    },
+    "translator": {
+      "name": "科研立项",
+      "category": "科学·入门",
+      "reply": "这个课题值得深入研究，建议立项",
+      "realMeaning": "您就是拖延",
+      "tip": "用科研打败科研",
+      "deathRate": "⭐⭐",
+      "effectiveness": "⭐⭐⭐"
+    },
+    "roast": "老板在研究怎么拖延，我在研究怎么跑路"
+  },
+  "碰碰车型": {
+    "mouthpiece": {
+      "title": "会议依赖",
+      "bossSays": "这个事我们开会碰一下",
+      "translate": "万物皆可'碰一下'，认为开会能解决一切问题",
+      "realThought": "把问题从一个人变成一群人",
+      "counterAttack": "好的，我准备一下会议材料，预计 3 小时",
+      "mood": "会而不议，议而不决"
+    },
+    "translator": {
+      "name": "会议管理",
+      "category": "组织学·入门",
+      "reply": "这个会需要 XX 参加，预计 XX 时间",
+      "realMeaning": "别啥都开会",
+      "tip": "用会议流程吓退他",
+      "deathRate": "⭐",
+      "effectiveness": "⭐⭐⭐⭐"
+    },
+    "roast": "老板的一天不是在开会，就是在去开会的路上"
+  },
+  "阿西莫夫型": {
+    "mouthpiece": {
+      "title": "AI 万能论",
+      "bossSays": "宣传视频你用 AI 做一下不就好了",
+      "translate": "认为 AI 万能，仿佛动动手指就能生成奥斯卡大片",
+      "realThought": "AI 是你爹吗",
+      "counterAttack": "好的，我让 AI 替我上班",
+      "mood": "我对 AI 的理解还停留在新闻标题"
+    },
+    "translator": {
+      "name": "AI 替代",
+      "category": "科技学·入门",
+      "reply": "AI 说这个做不了，它还没学会",
+      "realMeaning": "别啥都让 AI 做",
+      "tip": "用 AI 打败 AI",
+      "deathRate": "⭐⭐",
+      "effectiveness": "⭐⭐⭐⭐"
+    },
+    "roast": "老板觉得 AI 能替代我，我觉得老板能被替代"
+  },
+  "慈善家型": {
+    "mouthpiece": {
+      "title": "救世主情结",
+      "bossSays": "离开我们这家公司，根本没地方愿意招你们",
+      "translate": "把自己当慈善家，认为开公司是在做慈善",
+      "realThought": "您这是在招聘还是做慈善",
+      "counterAttack": "那您捐点钱给我们？",
+      "mood": "我是来上班的，不是来受施舍的"
+    },
+    "translator": {
+      "name": "慈善捐赠",
+      "category": "慈善学·入门",
+      "reply": "那公司算慈善机构吗？能免税吗？",
+      "realMeaning": "别 PUA 我",
+      "tip": "跟他谈慈善资质",
+      "deathRate": "⭐⭐⭐⭐",
+      "effectiveness": "⭐⭐⭐⭐⭐"
+    },
+    "roast": "老板开公司不赚钱，纯做慈善"
+  },
+  "温度计型": {
+    "mouthpiece": {
+      "title": "市场冷暖",
+      "bossSays": "你知不知道现在就业市场有多冷",
+      "translate": "随身携带温度计，随时测量'市场冷暖'",
+      "realThought": "冷您倒是给发件外套啊",
+      "counterAttack": "知道，所以您得多给点取暖费",
+      "mood": "市场冷，工资更冷"
+    },
+    "translator": {
+      "name": "气温调节",
+      "category": "气象学·入门",
+      "reply": "市场冷，咱们得抱团取暖",
+      "realMeaning": "别用市场威胁我",
+      "tip": "跟他谈取暖费",
+      "deathRate": "⭐⭐",
+      "effectiveness": "⭐⭐⭐"
+    },
+    "roast": "老板的温度计只测市场，不测工资"
+  },
+  "海王型": {
+    "mouthpiece": {
+      "title": "画饼大师",
+      "bossSays": "我最看好你，别让我失望",
+      "translate": "擅长撒网式鼓励，对每个人都'最看好你'",
+      "realThought": "看好=不加薪",
+      "counterAttack": "好的，那加薪别让我失望",
+      "mood": "我是海王池塘里的一条鱼"
+    },
+    "translator": {
+      "name": "期待管理",
+      "category": "心理学·入门",
+      "reply": "您最看好我，那最看好我的加薪幅度是多少",
+      "realMeaning": "别光说好听的",
+      "tip": "把期待转化为实际",
+      "deathRate": "⭐⭐",
+      "effectiveness": "⭐⭐⭐⭐"
+    },
+    "roast": "老板的看好比海王的鱼塘还大"
+  },
+  "机器人反抗军型": {
+    "mouthpiece": {
+      "title": "AI 威胁论",
+      "bossSays": "你们这些人以后都是会被 AI 取代的",
+      "translate": "天天唱衰人类员工，仿佛 AI 明天就要起义",
+      "realThought": "你先被取代给我看看",
+      "counterAttack": "好的，那您先被 AI 取代",
+      "mood": "我是来上班的，不是来末日的"
+    },
+    "translator": {
+      "name": "人机协作",
+      "category": "未来学·入门",
+      "reply": "AI 取代我，那谁取代您？",
+      "realMeaning": "别吓唬我",
+      "tip": "跟他谈人机协作",
+      "deathRate": "⭐⭐⭐⭐",
+      "effectiveness": "⭐⭐⭐⭐⭐"
+    },
+    "roast": "老板觉得 AI 会取代我，我觉得老板先会被取代"
+  },
+  "物理学家型": {
+    "mouthpiece": {
+      "title": "重心理论",
+      "bossSays": "现在你的重心都应该放在工作上",
+      "translate": "相信'重心'理论，认为员工的生活重心必须在工作上",
+      "realThought": "那生活呢？家庭呢？",
+      "counterAttack": "好的，那工资重心也得调整",
+      "mood": "我是来工作的，不是来献身的"
+    },
+    "translator": {
+      "name": "力的平衡",
+      "category": "物理学·入门",
+      "reply": "重心偏了，得找个支点平衡一下",
+      "realMeaning": "工作生活要平衡",
+      "tip": "用物理打败物理",
+      "deathRate": "⭐⭐",
+      "effectiveness": "⭐⭐⭐"
+    },
+    "roast": "老板的重心在工作上，我的重心在下班上"
+  },
+  "恐怖分子型": {
+    "mouthpiece": {
+      "title": "爆炸效果",
+      "bossSays": "效果还是不够炸啊",
+      "translate": "追求'炸裂'效果，认为不够夸张就是失败",
+      "realThought": "你是搞恐怖袭击吗",
+      "counterAttack": "好的，我整个核爆级别的",
+      "mood": "我是来做营销的，不是搞恐怖主义的"
+    },
+    "translator": {
+      "name": "当量计算",
+      "category": "军事学·入门",
+      "reply": "这个当量够吗？不够我再加",
+      "realMeaning": "别总想着炸",
+      "tip": "用军事术语吓唬他",
+      "deathRate": "⭐⭐⭐",
+      "effectiveness": "⭐⭐⭐⭐"
+    },
+    "roast": "老板要的效果不是刷屏，是炸地球"
+  },
+  "狙击手型": {
+    "mouthpiece": {
+      "title": "高远站位",
+      "bossSays": "我们做工作的站位一定要高，目光要放长远",
+      "translate": "擅长'高站位'和'远目光'，但具体怎么操作他也不知道",
+      "realThought": "您瞄准的是星辰大海吗",
+      "counterAttack": "好的，我站到大气层外",
+      "mood": "我是来做执行的，不是来瞄准的"
+    },
+    "translator": {
+      "name": "瞄准校准",
+      "category": "军事学·进阶",
+      "reply": "站位太高，容易缺氧",
+      "realMeaning": "落地一点",
+      "tip": "跟他谈实际执行",
+      "deathRate": "⭐⭐",
+      "effectiveness": "⭐⭐⭐"
+    },
+    "roast": "老板的站位在大气层，我的站位在工位"
+  }
+}
