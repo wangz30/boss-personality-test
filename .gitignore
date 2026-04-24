@@ -10,3 +10,17 @@ Thumbs.db
 
 # Node (if any)
 node_modules/
+
+# 排除 Python 脚本
+*.py
+
+# 排除备份文件
+*-backup*.json
+*backup*.json
+
+# 排除测试和调试文件
+test-*.html
+debug-*.html
+generate-*.py
+check-*.py
+*.log
