@@ -1,0 +1,1052 @@
+{
+  "metadata": {
+    "version": "3.0",
+    "totalQuestions": 40,
+    "dimensions": 8,
+    "questionsPerDimension": 5,
+    "estimatedTime": "8-10 分钟",
+    "optimization": "口语化、老板话术、典型场景"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "scenario": "你提交了一份详细的工作报告，老板看后说：",
+      "options": [
+        {
+          "text": "这个数据新不新啊？别拿旧数据糊弄我",
+          "dimension": "time",
+          "score": 1
+        },
+        {
+          "text": "太长了！一页纸能说清楚的事，搞这么复杂？",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "先放我这吧，我再研究研究",
+          "dimension": "pace",
+          "score": 2
+        },
+        {
+          "text": "历史数据呢？怎么没有对比？",
+          "dimension": "innovation",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "scenario": "周五下午快下班时，老板走过来对你说：",
+      "options": [
+        {
+          "text": "下班前把这份材料改一下，很简单的",
+          "dimension": "time",
+          "score": 1
+        },
+        {
+          "text": "你先别走，我们碰一下，很快的",
+          "dimension": "pace",
+          "score": 1
+        },
+        {
+          "text": "今晚有个急活，明天早上就要",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "年轻人，不要总想着准时下班",
+          "dimension": "feedback",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "scenario": "你向老板请示工作方案，他说：",
+      "options": [
+        {
+          "text": "这个你不要问我，自己应该知道怎么做",
+          "dimension": "delegation",
+          "score": 2
+        },
+        {
+          "text": "这件事的本质是什么？你想清楚了吗？",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "站位要高！目光要长远！",
+          "dimension": "communication",
+          "score": 2
+        },
+        {
+          "text": "我上次不是说过吗？怎么又忘了？",
+          "dimension": "feedback",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "scenario": "方案已经改了第八版，老板评价说：",
+      "options": [
+        {
+          "text": "哎，还是第一版最好",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "至少要做三个版本给我选，懂吗？",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "这个感觉不对，但我也说不上来",
+          "dimension": "communication",
+          "score": 1
+        },
+        {
+          "text": "这个设计没有灵魂，没有那种眼前一亮的感觉",
+          "dimension": "innovation",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "scenario": "凌晨两点，老板在微信群里@你：",
+      "options": [
+        {
+          "text": "现在把这份材料改一下，明天要用",
+          "dimension": "time",
+          "score": 1
+        },
+        {
+          "text": "我刚想到一个绝妙的创意，你看看",
+          "dimension": "pace",
+          "score": 1
+        },
+        {
+          "text": "怎么不回消息？睡着了吗？",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "年轻人要多锻炼，熬夜是福报",
+          "dimension": "feedback",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "scenario": "你提交了一个创新方案，老板说：",
+      "options": [
+        {
+          "text": "这个用 AI 做一下不就好了？",
+          "dimension": "innovation",
+          "score": 2
+        },
+        {
+          "text": "效果不够炸！我要的是刷屏级别的！",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "这个风险我们承担不起，稳妥一点",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "我们要勇于尝试新事物嘛",
+          "dimension": "innovation",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "scenario": "部门会议上，老板滔滔不绝地说：",
+      "options": [
+        {
+          "text": "接下来我讲六个方面，每个方面四点",
+          "dimension": "communication",
+          "score": 1
+        },
+        {
+          "text": "这个事我们要多方协调，懂吗？",
+          "dimension": "pace",
+          "score": 2
+        },
+        {
+          "text": "我简单说两句啊",
+          "dimension": "communication",
+          "score": 2
+        },
+        {
+          "text": "你们要有主人翁意识，把公司当成自己的家",
+          "dimension": "feedback",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "scenario": "你申请休假，老板语重心长地说：",
+      "options": [
+        {
+          "text": "年轻人多吃点亏是好事",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "你知不知道现在就业市场有多冷？",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "离开我们这，根本没地方愿意招你",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "我最看好你，别让我失望啊",
+          "dimension": "feedback",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "scenario": "你汇报工作时，老板打断你说：",
+      "options": [
+        {
+          "text": "你不要说过程，我只要结果！",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "这个预算是怎么算出来的？说清楚",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "这里面的逻辑是什么？我怎么没看懂",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "你写的什么东西？我看不懂",
+          "dimension": "communication",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "scenario": "项目失败了，老板总结说：",
+      "options": [
+        {
+          "text": "你们这些人以后都会被 AI 取代",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "现在你的重心都应该放在工作上",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "这个事我要跟上面请示",
+          "dimension": "pace",
+          "score": 2
+        },
+        {
+          "text": "等我再研究研究吧",
+          "dimension": "pace",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "scenario": "你提出加薪，老板说：",
+      "options": [
+        {
+          "text": "公司现在困难，要共克时艰",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "你先做出成绩，加薪自然有",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "你这个岗位市场价就这个",
+          "dimension": "communication",
+          "score": 1
+        },
+        {
+          "text": "年轻人不要总想着钱，要想着成长",
+          "dimension": "feedback",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "scenario": "老板布置新任务时说：",
+      "options": [
+        {
+          "text": "执行就好，不要问为什么",
+          "dimension": "delegation",
+          "score": 1
+        },
+        {
+          "text": "这个月还差多少？能不能冲一冲？",
+          "dimension": "time",
+          "score": 1
+        },
+        {
+          "text": "慢慢来，不着急，但一定要做好",
+          "dimension": "pace",
+          "score": 2
+        },
+        {
+          "text": "见证奇迹的时刻到了",
+          "dimension": "expectation",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "scenario": "你迟到了一分钟，老板说：",
+      "options": [
+        {
+          "text": "你今天晚到了一分三十秒",
+          "dimension": "time",
+          "score": 2
+        },
+        {
+          "text": "你为什么干活不能像吃饭一样积极？",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "你最近是不是有什么情绪？",
+          "dimension": "communication",
+          "score": 2
+        },
+        {
+          "text": "这个话是谁说的？有记录吗？",
+          "dimension": "communication",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "scenario": "项目成功后，老板说：",
+      "options": [
+        {
+          "text": "跟着我走就对了",
+          "dimension": "communication",
+          "score": 1
+        },
+        {
+          "text": "这个我讲过很多遍了吧？",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "这件事的来龙去脉是什么？",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "这个方案的可行性论证了吗？",
+          "dimension": "decision",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "scenario": "老板的口头禅是：",
+      "options": [
+        {
+          "text": "你太执着了",
+          "dimension": "pace",
+          "score": 2
+        },
+        {
+          "text": "效果还是不够炸啊",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "这个风险我们承担不起",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "我们要多方协调",
+          "dimension": "pace",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "scenario": "你对老板的决定提出疑问，他说：",
+      "options": [
+        {
+          "text": "你知不知道现在就业市场有多冷？",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "离开我们这，根本没地方愿意招你",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "我最看好你，别让我失望",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "年轻人多吃点亏是好事",
+          "dimension": "feedback",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "scenario": "老板对工作的要求是：",
+      "options": [
+        {
+          "text": "你不要说别的，我只要结果",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "这个感觉不对，再来一遍",
+          "dimension": "communication",
+          "score": 1
+        },
+        {
+          "text": "这个设计没有灵魂",
+          "dimension": "innovation",
+          "score": 2
+        },
+        {
+          "text": "站位要高，目光要长远",
+          "dimension": "communication",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "scenario": "老板的管理风格是：",
+      "options": [
+        {
+          "text": "你们在公司要有主人翁意识",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "执行就好，不要问为什么",
+          "dimension": "delegation",
+          "score": 1
+        },
+        {
+          "text": "这个事你不要问我，你自己应该知道",
+          "dimension": "delegation",
+          "score": 2
+        },
+        {
+          "text": "我简单说两句",
+          "dimension": "communication",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "scenario": "老板对创新的态度是：",
+      "options": [
+        {
+          "text": "这个用 AI 做一下不就好了？",
+          "dimension": "innovation",
+          "score": 2
+        },
+        {
+          "text": "我们要勇于尝试新事物",
+          "dimension": "innovation",
+          "score": 1
+        },
+        {
+          "text": "这个风险我们承担不起",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "为什么没有过去三十年的对比数据？",
+          "dimension": "innovation",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "scenario": "老板的时间观念是：",
+      "options": [
+        {
+          "text": "下班前把这份材料改一下",
+          "dimension": "time",
+          "score": 1
+        },
+        {
+          "text": "慢慢来，不着急",
+          "dimension": "pace",
+          "score": 2
+        },
+        {
+          "text": "你今天晚到了一分三十秒",
+          "dimension": "time",
+          "score": 2
+        },
+        {
+          "text": "这个事我要跟上面请示",
+          "dimension": "pace",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "scenario": "在技术评审会上，老板说：",
+      "options": [
+        {
+          "text": "技术细节我不懂，但我觉得不行",
+          "dimension": "decision",
+          "score": 1
+        },
+        {
+          "text": "这个功能很简单，为什么做不了？",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "参考一下大厂是怎么做的",
+          "dimension": "innovation",
+          "score": 1
+        },
+        {
+          "text": "先上线再说，边做边改",
+          "dimension": "pace",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "scenario": "销售汇报时，老板说：",
+      "options": [
+        {
+          "text": "我不管过程，只要结果",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "这个月目标还差多少？",
+          "dimension": "time",
+          "score": 1
+        },
+        {
+          "text": "看看人家是怎么做到的",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "明天开始加班冲业绩",
+          "dimension": "time",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "scenario": "行政会议上，老板强调：",
+      "options": [
+        {
+          "text": "考勤制度必须严格执行",
+          "dimension": "time",
+          "score": 2
+        },
+        {
+          "text": "公司就是家，要以公司为家",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "节约每一分钱",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "流程必须规范",
+          "dimension": "delegation",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "scenario": "创意讨论时，老板说：",
+      "options": [
+        {
+          "text": "这个创意不够大胆",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "我需要一个眼前一亮的方案",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "预算有限，但效果要好",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "今天下班前给我初稿",
+          "dimension": "time",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "scenario": "绩效考核时，老板说：",
+      "options": [
+        {
+          "text": "你的表现还有提升空间",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "年轻人不要太计较得失",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "公司不会亏待你",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "好好干，有机会会提拔你",
+          "dimension": "feedback",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "scenario": "跨部门协作时，老板说：",
+      "options": [
+        {
+          "text": "这个事你直接找他们对接",
+          "dimension": "delegation",
+          "score": 1
+        },
+        {
+          "text": "有什么问题随时找我",
+          "dimension": "delegation",
+          "score": 2
+        },
+        {
+          "text": "让他们配合你",
+          "dimension": "delegation",
+          "score": 1
+        },
+        {
+          "text": "这个事你要主动推动",
+          "dimension": "delegation",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "scenario": "客户投诉后，老板说：",
+      "options": [
+        {
+          "text": "这是谁的责任？",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "马上给客户道歉",
+          "dimension": "time",
+          "score": 1
+        },
+        {
+          "text": "写一份检讨报告",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "以后不许再犯",
+          "dimension": "expectation",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "scenario": "年度规划时，老板说：",
+      "options": [
+        {
+          "text": "明年业绩要翻一番",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "我们要开拓新市场",
+          "dimension": "innovation",
+          "score": 1
+        },
+        {
+          "text": "人员不增加，任务要增加",
+          "dimension": "delegation",
+          "score": 1
+        },
+        {
+          "text": "具体方案你们自己定",
+          "dimension": "delegation",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "scenario": "产品上线前，老板突然要求：",
+      "options": [
+        {
+          "text": "加个功能，很简单的",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "提前上线",
+          "dimension": "time",
+          "score": 1
+        },
+        {
+          "text": "再测试一遍，确保万无一失",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "先上线，有问题再改",
+          "dimension": "pace",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "scenario": "团队建设时，老板说：",
+      "options": [
+        {
+          "text": "大家辛苦了，今晚聚餐",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "工作之余也要多学习",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "团队要有凝聚力",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "聚餐费用 AA 吧",
+          "dimension": "decision",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "scenario": "日常工作中，老板最常说的是：",
+      "options": [
+        {
+          "text": "进度怎么样了？",
+          "dimension": "time",
+          "score": 1
+        },
+        {
+          "text": "有什么问题吗？",
+          "dimension": "delegation",
+          "score": 2
+        },
+        {
+          "text": "再优化一下",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "辛苦了",
+          "dimension": "feedback",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "scenario": "遇到突发问题时，老板：",
+      "options": [
+        {
+          "text": "立刻召集会议",
+          "dimension": "pace",
+          "score": 1
+        },
+        {
+          "text": "让你们自己解决",
+          "dimension": "delegation",
+          "score": 2
+        },
+        {
+          "text": "先稳住，再想办法",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "这是谁的责任？",
+          "dimension": "feedback",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "scenario": "分配任务时，老板：",
+      "options": [
+        {
+          "text": "直接指定人选",
+          "dimension": "delegation",
+          "score": 1
+        },
+        {
+          "text": "让大家主动认领",
+          "dimension": "delegation",
+          "score": 2
+        },
+        {
+          "text": "按工作量分配",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "谁有空谁做",
+          "dimension": "delegation",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "scenario": "听取汇报时，老板：",
+      "options": [
+        {
+          "text": "经常打断提问",
+          "dimension": "communication",
+          "score": 1
+        },
+        {
+          "text": "认真听完再评价",
+          "dimension": "communication",
+          "score": 2
+        },
+        {
+          "text": "边听边看手机",
+          "dimension": "communication",
+          "score": 1
+        },
+        {
+          "text": "要求提供书面材料",
+          "dimension": "communication",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "scenario": "制定目标时，老板：",
+      "options": [
+        {
+          "text": "目标要 ambitious",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "目标要可实现",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "参考行业标准",
+          "dimension": "innovation",
+          "score": 1
+        },
+        {
+          "text": "你们自己定，我审核",
+          "dimension": "delegation",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "scenario": "员工犯错时，老板：",
+      "options": [
+        {
+          "text": "当众批评",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "私下谈话",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "要求写检讨",
+          "dimension": "expectation",
+          "score": 1
+        },
+        {
+          "text": "帮助分析原因",
+          "dimension": "feedback",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "scenario": "公司聚餐时，老板：",
+      "options": [
+        {
+          "text": "主动和大家聊天",
+          "dimension": "communication",
+          "score": 2
+        },
+        {
+          "text": "坐在角落不说话",
+          "dimension": "communication",
+          "score": 1
+        },
+        {
+          "text": "讲公司发展历程",
+          "dimension": "communication",
+          "score": 2
+        },
+        {
+          "text": "提前离开",
+          "dimension": "pace",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "scenario": "收到客户表扬时，老板：",
+      "options": [
+        {
+          "text": "在群里表扬你",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "这是应该的",
+          "dimension": "feedback",
+          "score": 1
+        },
+        {
+          "text": "继续保持",
+          "dimension": "feedback",
+          "score": 2
+        },
+        {
+          "text": "没什么大不了的",
+          "dimension": "feedback",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "scenario": "工作遇到困难时，老板：",
+      "options": [
+        {
+          "text": "提供资源支持",
+          "dimension": "delegation",
+          "score": 2
+        },
+        {
+          "text": "让你自己想办法",
+          "dimension": "delegation",
+          "score": 1
+        },
+        {
+          "text": "调整目标",
+          "dimension": "decision",
+          "score": 2
+        },
+        {
+          "text": "催促加快进度",
+          "dimension": "time",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "scenario": "测评结束，你想对老板说：",
+      "options": [
+        {
+          "text": "老板，您说的都对",
+          "dimension": "communication",
+          "score": 2
+        },
+        {
+          "text": "我考虑考虑",
+          "dimension": "pace",
+          "score": 2
+        },
+        {
+          "text": "好的收到",
+          "dimension": "delegation",
+          "score": 1
+        },
+        {
+          "text": "您说得对，但我做不到",
+          "dimension": "feedback",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
